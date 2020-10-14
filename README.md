@@ -1,0 +1,2 @@
+# KioskJSONMock
+Fake REST API
