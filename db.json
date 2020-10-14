@@ -1,10 +1,7 @@
 {
   "MenusSuccess": {
     "status": "success",
-    "messages": [
-      "...",
-      "..."
-    ],
+    "messages": [],
     "data": {
       "menus": [
         {
@@ -22,5 +19,12 @@
       ]
     }
   },
-  
+  "MenusError": {
+    "status": "error",
+    "messages": [
+      "Mô tả lỗi 1",
+      "Mô tả lỗi 2"
+    ],
+    "data": null
+  }
 }
